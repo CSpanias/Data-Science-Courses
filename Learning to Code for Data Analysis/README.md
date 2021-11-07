@@ -1,0 +1,1 @@
+Notes and exercises from the course [Learnng to Code for Data Analysis](https://www.open.edu/openlearn/science-maths-technology/learn-code-data-analysis/content-section-overview) from the Open Learn platform.
